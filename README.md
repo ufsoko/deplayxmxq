@@ -6,3 +6,4 @@ Python Deploy OMS
     2.安装python-virtualenv
     3.pip install flask
 
+# deplayxmxq
